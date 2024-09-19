@@ -2,14 +2,14 @@
 
 <div align="center">
   <!-- Work Links -->
-  <a href="https://github.com/JMSantos217/JMSantos217" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joão-miguel-santos-de-souza-b044412b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/JMSantos217/JMSantos217" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF00F6&color:FFF" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joão-miguel-santos-de-souza-b044412b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF" target="_blank"></a>
   <!-- Social Links -->
-  <a href="https://www.instagram.com/soypiiquell/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/soypiiquell/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF" target="_blank"></a>
   <!-- OTH Links -->
-  <a href=""><img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white"></a>
-  <a href=""><img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white"></a>
-  <a href="https://steamcommunity.com/profiles/76561198322871294/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+  <a href=""><img src="https://img.shields.io/badge/riotgames-000000.svg?style=for-the-badge&logo=riotgames&logoColor=FF00F6&color:FFF"></a>
+  <a href=""><img src="https://img.shields.io/badge/epicgames-000000.svg?style=for-the-badge&logo=epicgames&logoColor=FF00F6&color:FFF"></a>
+  <a href="https://steamcommunity.com/profiles/76561198322871294/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=FF00F6&color:FFF" target="_blank"></a>
 </div>
 
 #
